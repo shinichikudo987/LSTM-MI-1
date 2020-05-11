@@ -29,3 +29,6 @@ or
 
 'lstm.py' will trainthe classifier and generate the report to evaluate the method. This code will run on your local machine or on a machine with a GPU (GPU will of course be much faster).
   
+## Backup link
+If there is any problems related to the download on Github, please use the backup link on Google Driver:
+https://drive.google.com/drive/folders/1EI67tTK2NnwW9MZa3Qr2anPbJ_Dlix91?fbclid=IwAR0A_Ltrkrn9Zt4VvF0IFhE_v3GWz-YDqaq-SsHaU2mHNG5861KXylvZlBY
